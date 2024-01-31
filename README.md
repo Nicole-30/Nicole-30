@@ -11,9 +11,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://x.com/akenji_nicole?s=21&t=q674CttsaQsliYG67avBVg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/akenji-nicole-141206213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/cryptolady30?igsh=YTQwZjQ0NmI0OA==" />][instagram]
+[<img align="left" alt="Nicole | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nicole | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nicole | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]:https://x.com/akenji_nicole?s=21&t=q674CttsaQsliYG67avBVg
 [instagram]: https://www.instagram.com/cryptolady30?igsh=YTQwZjQ0NmI0OA==
